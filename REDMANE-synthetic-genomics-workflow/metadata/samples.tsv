@@ -1,0 +1,6 @@
+sample_id	source_sample	read_type	reference
+sample1	HG005	paired-end	GRCh38-chr22
+sample2	HG005	paired-end	GRCh38-chr22
+sample3	HG005	paired-end	GRCh38-chr22
+sample4	HG005	paired-end	GRCh38-chr22
+sample5	HG005	paired-end	GRCh38-chr22
