@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Synthetic Genomic Data Workflow"
+message: "If you use this repository, please cite the associated Zenodo record."
+type: software
+
+authors:
+  - family-names: "Aung"
+    given-names: "Kaung Myat"
+
+repository-code: "https://github.com/Thesuperiorscientist/WEHI_DataCommon/redmane-synthetic-genomics-workflow"
+url: "https://zenodo.org/records/19081661"
+
+license: "MIT"
