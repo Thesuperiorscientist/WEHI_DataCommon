@@ -1,9 +1,3 @@
-
----
-
-# 4. `docs/methodology.md`
-
-```markdown
 # Methodology
 
 ## 1. Input Data
@@ -32,7 +26,6 @@ Due to computational memory limitations, chromosome 22 was selected as the worki
 
 BWA-MEM was used to align the paired-end reads to the reference.
 
-```text
 R1 + R2 + reference
         ↓
       BWA-MEM
